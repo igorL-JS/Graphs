@@ -41,49 +41,49 @@ export const ModWinEdit = (props) => {
                     <div className="form-col">
                         <div className="row-md-4 mb-3">
                             <label htmlFor="validationDefault01">ID: </label>
-                            <input disabled name='id' type="text" className="form-control" id="validationDefault01"
+                            <input disabled name='id' type="text" className="form-control"
                                    placeholder="ID"
                                    required onChange={formik.handleChange} value={formik.values.id}/>
                         </div>
                         <div className="row-md-4 mb-3">
                             <label htmlFor="validationDefault02">Full name:</label>
-                            <input name='name' type="text" className="form-control" id="validationDefault02"
+                            <input name='name' type="text" className="form-control"
                                    placeholder="Full name"
                                    required onChange={formik.handleChange} value={formik.values.name}/>
                         </div>
                         <div className="row-md-4 mb-3">
                             <label htmlFor="validationDefault02">Age:</label>
-                            <input name='age' type="text" className="form-control" id="validationDefault02"
+                            <input name='age' type="text" className="form-control"
                                    placeholder="age"
                                    required onChange={formik.handleChange} value={formik.values.age}/>
                         </div>
                         <div className="row-md-4 mb-3">
                             <label htmlFor="validationDefault02">Category:</label>
-                            <input name='category' type="text" className="form-control" id="validationDefault02"
+                            <input name='category' type="text" className="form-control"
                                    placeholder="category"
                                    required onChange={formik.handleChange} value={formik.values.category}/>
                         </div>
                         <div className="row-md-4 mb-3">
                             <label htmlFor="validationDefault02">Win</label>
-                            <input name='win' type="text" className="form-control" id="validationDefault02"
+                            <input name='win' type="text" className="form-control"
                                    placeholder="win"
                                    required onChange={formik.handleChange} value={formik.values.win}/>
                         </div>
                         <div className="row-md-4 mb-3">
                             <label htmlFor="validationDefault02">Lost:</label>
-                            <input name='lost' type="text" className="form-control" id="validationDefault02"
+                            <input name='lost' type="text" className="form-control"
                                    placeholder="lost"
                                    required onChange={formik.handleChange} value={formik.values.lost}/>
                         </div>
                         <div className="row-md-4 mb-3">
                             <label htmlFor="validationDefault02">Draw: </label>
-                            <input name='draw' type="text" className="form-control" id="validationDefault02"
+                            <input name='draw' type="text" className="form-control"
                                    placeholder="draw"
                                    required onChange={formik.handleChange} value={formik.values.draw}/>
                         </div>
                         <div className="row-md-4 mb-3">
                             <label htmlFor="validationDefault02">Total fights: </label>
-                            <input name='total' type="text" className="form-control" id="validationDefault02"
+                            <input name='total' type="text" className="form-control"
                                    placeholder="Total fights"
                                    required onChange={formik.handleChange} value={formik.values.total}/>
                         </div>

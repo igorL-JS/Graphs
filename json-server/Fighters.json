@@ -14,7 +14,7 @@
       "id": 2,
       "name": "Aleksey Oleynik",
       "age": 42,
-      "category": 93.0,
+      "category": 93,
       "win": 57,
       "lost": 13,
       "draw": 1,
@@ -34,7 +34,7 @@
       "id": 4,
       "name": "Magomed Agaev",
       "age": 34,
-      "category": 93.0,
+      "category": 93,
       "win": 29,
       "lost": 21,
       "draw": 0,
@@ -52,9 +52,9 @@
     },
     {
       "id": 6,
-      "name": "Fedor Emelyanenko",
+      "name": "Fedor Emelyanenk",
       "age": 43,
-      "category": 93.0,
+      "category": 93,
       "win": 39,
       "lost": 6,
       "draw": 1,
@@ -63,12 +63,22 @@
     {
       "id": 7,
       "name": "Aleksandr Sarnavskiy",
-      "age": 30,
-      "category": 70.3,
+      "age": "31",
+      "category": "70",
       "win": 37,
       "lost": 7,
       "draw": 0,
       "total": 44
+    },
+    {
+      "id": "12",
+      "name": "Igor L",
+      "age": "31",
+      "category": "89",
+      "win": "45",
+      "lost": "2",
+      "draw": "0",
+      "total": "47"
     }
   ]
 }

@@ -2,7 +2,7 @@ import React, {useEffect, useState} from 'react';
 import "bootstrap/dist/css/bootstrap.min.css"
 import {Table} from "./Table/Table";
 import Preloader from "./Preloader/Preloader";
-import {BarChart} from "./BarChart";
+import {BarChart} from "./BarChart/BarChart";
 import {FightersApi} from "./API/Api";
 
 const App = () => {

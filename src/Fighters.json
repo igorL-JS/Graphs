@@ -1,0 +1,74 @@
+{
+  "fighters": [
+    {
+      "id": 1,
+      "name": "Aleksandr Shlemenko",
+      "age": 35,
+      "category": 83.9,
+      "win": 59,
+      "lost": 13,
+      "draw": 0,
+      "total-fights": 72
+    },
+    {
+      "id": 2,
+      "name": "Aleksey Oleynik",
+      "age": 42,
+      "category": 93.0,
+      "win": 57,
+      "lost": 13,
+      "draw": 1,
+      "total-fights": 71
+    },
+    {
+      "id": 3,
+      "name": "Mikhail Malyutin",
+      "age": 34,
+      "category": 61.2,
+      "win": 37,
+      "lost": 15,
+      "draw": 0,
+      "total-fights": 52
+    },
+    {
+      "id": 4,
+      "name": "Magomed Agaev",
+      "age": 34,
+      "category": 93.0,
+      "win": 29,
+      "lost": 21,
+      "draw": 0,
+      "total-fights": 50
+    },
+    {
+      "id": 5,
+      "name": "Beslan Isaev",
+      "age": 36,
+      "category": 77.1,
+      "win": 39,
+      "lost": 10,
+      "draw": 0,
+      "total-fights": 49
+    },
+    {
+      "id": 6,
+      "name": "Fedor Emelyanenko",
+      "age": 43,
+      "category": 93.0,
+      "win": 39,
+      "lost": 6,
+      "draw": 1,
+      "total-fights": 46
+    },
+    {
+      "id": 7,
+      "name": "Aleksandr Sarnavskiy",
+      "age": 30,
+      "category": 70.3,
+      "win": 37,
+      "lost": 7,
+      "draw": 0,
+      "total-fights": 44
+    }
+  ]
+}
